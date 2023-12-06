@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[881],{8881:function(t){t.exports=JSON.parse('{"collection":"https://cdm16786.contentdm.oclc.org/iiif/2/sm/manifest.json","featured":["https://cdm16786.contentdm.oclc.org/iiif/2/sm:49/manifest.json"],"metadata":["Composer","Genre","Date of Publication"]}')}}]);
